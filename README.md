@@ -1,16 +1,16 @@
 # COVID_PowerBI_Assignment
 
-#COVID-19 Data: Analysis and Insights
-Project Overview
-The primary goal of this project was to design a dashboard for analyzing and gaining insights from the provided COVID-19 dataset. The dashboard visualizes key trends, highlights patterns, and provides detailed hierarchical data.
+## COVID-19 Data: Analysis and Insights
+### Project Overview
+#### The primary goal of this project was to design a dashboard for analyzing and gaining insights from the provided COVID-19 dataset. The dashboard visualizes key trends, highlights patterns, and provides detailed hierarchical data.
 ________________________________________
 
-Key Insight: 
-a.	Covid cases and deaths were increasing till 2021. From 2022 onwards, 
-b.	Covid was at its peak in 2021.
-c.	From 2022 onwards intensity of covid started reducing.
-d.	USA, India and Brazil were affected by covid the most.
-e.	USA in AMRO region was affected the most by COVID.
+### Key Insight: 
+#### a.	Covid cases and deaths were increasing till 2021. From 2022 onwards, 
+#### b.	Covid was at its peak in 2021.
+#### c.	From 2022 onwards intensity of covid started reducing.
+#### d.	USA, India and Brazil were affected by covid the most.
+#### e.	USA in AMRO region was affected the most by COVID.
 
 Thought Process During Dashboard Creation
 1.	Understanding the Data
